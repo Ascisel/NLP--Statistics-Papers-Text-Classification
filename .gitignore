@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+venv/
+config.py
+__pycache__/
+output/
+local/datasets/arxiv_data_parsed.csv
